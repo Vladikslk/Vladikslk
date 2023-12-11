@@ -1,4 +1,3 @@
-<img width="1440" alt="Python png" src="https://github.com/Vladikslk/Vladikslk/assets/150304062/5d2196bf-5512-4e09-a6ef-d28c6a13f5cb">
 <img width="1440" alt="NetworkDesign" src="https://github.com/Vladikslk/Vladikslk/assets/150304062/c24c3191-ea47-4246-86eb-851e9667d037">
 <img width="1440" alt="SecureBorwser" src="https://github.com/Vladikslk/Vladikslk/assets/150304062/4807912b-17ff-4ec2-bee9-733d90e20b12">
 <img width="1440" alt="SecureBorwser2" src="https://github.com/Vladikslk/Vladikslk/assets/150304062/8c249b7f-cfaa-4767-aca7-1cbde31eac56">
